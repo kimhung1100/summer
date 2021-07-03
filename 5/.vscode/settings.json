@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "cmath": "cpp",
+        "cstdlib": "cpp",
+        "vector": "cpp"
+    }
+}

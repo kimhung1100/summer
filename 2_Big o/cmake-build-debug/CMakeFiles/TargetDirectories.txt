@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/Big-o/2_Big o/cmake-build-debug/CMakeFiles/2_Big_o.dir
+C:/Users/Lenovo/Desktop/Big-o/2_Big o/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/Big-o/2_Big o/cmake-build-debug/CMakeFiles/rebuild_cache.dir
